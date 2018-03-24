@@ -92,15 +92,19 @@
   }
   img {
     padding: 0;
-    border:4px solid #000307
+    
     display: block;
     margin: 0 auto;
     max-height: 99%;
     max-width: 99%;
+    border:4px solid #000307
     background-position: center center;
     background-repeat: no-repeat;
     overflow: hidden;
   }
+  article {
+    display: block;
+ 
   h1 {
     font-family: serif;
     color: gold;

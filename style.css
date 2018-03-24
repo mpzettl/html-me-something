@@ -14,7 +14,10 @@
   border: 1px solid black;
 }
 
-
+/*mark {
+  text-decoration: underline;
+  background-color: transparent;
+}*/
 
 
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
@@ -77,10 +80,10 @@
   /*a:link {
     color: lightblue;
     background-color: transparent;
-    text-decoration: none;*/
-  }
+    text-decoration: none;}*/
+  
   a:visited {
-    color: lightblue;
+    color: violet;
     background-color: transparent;
     text-decoration: underline;
   }

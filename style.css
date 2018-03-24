@@ -103,7 +103,7 @@
   }
   h1 {
     font-family: serif;
-    color: white;
+    color: gold;
     text-decoration: underline;
     text-align: center;
     font-size: 2em;
@@ -130,6 +130,7 @@
   h4 {
     color: blue;
     font-family: serif;
+    text-align: center;
   }
   h5 {
     color: orange;

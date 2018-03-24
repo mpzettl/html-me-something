@@ -36,7 +36,29 @@
   th, td {
     padding: 15px
   }
-   p {
+  
+  a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: darkviolet;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active{
+    color: rgb(40, 40, 177);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  p {
     font-family: Menlo, sans-serif;
     font-style: italic;
     font-size: em;

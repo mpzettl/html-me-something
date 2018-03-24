@@ -22,7 +22,8 @@
   
   body {
     margin: 0;
-    background-color: rgb(77, 77, 77);
+    background: linear-gradient(red,green,yellow)
+    /*background-color: rgb(77, 77, 77);*/
   }
   
   /**
@@ -36,14 +37,18 @@
   th, td {
     padding: 15px
   }
-  
-  a:link {
-    color: blue;
+  a {
+    color: lightblue;
     background-color: transparent;
     text-decoration: none;
   }
+  /*a:link {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;*/
+  }
   a:visited {
-    color: darkviolet;
+    color: lightblue;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -411,6 +416,4 @@
   [hidden] {
     display: none;
   }
-  Shwedagon {
-    "Shwedagon Pagoda is the crown jewel of Myanmar. With a population that is 90% Buddhist, it is the country's Mecca. Covered in pure gold, at it's top is a jewel that they say could buy a country."
-  }
+  

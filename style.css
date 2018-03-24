@@ -22,9 +22,6 @@
   
   body {
     margin: 0;
-    
-    
-    
     margin-top: 60px;
     margin-bottom: 60px;
     margin-right: 80px;
@@ -104,7 +101,17 @@
   }
   article {
     display: block;
- 
+  }
+  footer {
+    font-family: Menlo, sans-serif;
+    font-style: italic;
+    font-size: em;
+    text-align: center;
+    color: 0abab5;
+    
+  }
+
+
   h1 {
     font-family: serif;
     color: gold;

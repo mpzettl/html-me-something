@@ -13,7 +13,10 @@
 #wrapper {
   border: 1px solid black;
 }
+span {
+  text-decoration: underline;
 
+}
 /*mark {
   text-decoration: underline;
   background-color: transparent;

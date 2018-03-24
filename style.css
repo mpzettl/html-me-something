@@ -10,7 +10,7 @@
   /*margin: 4px, 2px;*/
   border-radius: 16px;
 }
-#Shwedagon {
+#wrapper {
   border: 1px solid black;
 }
 
@@ -119,6 +119,7 @@
   }
   article {
     display: block;
+    text-align: center;
   }
   footer {
     font-family: Menlo, sans-serif;
